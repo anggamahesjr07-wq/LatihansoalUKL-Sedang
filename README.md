@@ -1,2 +1,2 @@
 # LatihansoalUKL-Sedang
-Program ini berfungsi untuk menghitung volume tabung dengan menggunakan fungsi (method). Pengguna memasukkan jari-jari dan tinggi tabung, kemudian program memanggil fungsi hitungVolume(r, t) yang menunakan rumus hitung volume
+Program ini berfungsi untuk menghitung faktorial dari sebuah bilangan bulat positif. Pengguna memasukkan sebuah bilangan, kemudian program menggunakan perulangan untuk mengalikan angka tersebut secara berurutan dari 1 hingga bilangan itu sendiri, lalu menampilkan hasil faktorialnya.
